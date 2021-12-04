@@ -1,6 +1,8 @@
 # Conversor de Imagens
 Projeto feito utilizando apenas HTML e JavaScript. Parte gráfica, layouts e interface foi resolvida utilizando Bootstrap.
 
+<img align="center" src="screenshots/screen01.png">
+
 # Frameworks JavaScript
 - [Bootstrap](https://getbootstrap.com) - É um dos Frameworks mais populares para HTML, CSS e JavaScript. É utilizado para desenvolver projetos Web responsivos, Mobiles, e com mais eficiência e facilidade.
 
@@ -24,4 +26,7 @@ Você pode utilizar o @import no seu arquivo .css ( CSS ), porém eu integrei tu
 
 # Resultado
 
-
+<img align="center" src="screenshots/screen01.png">
+<img align="center" src="screenshots/screen02.png">
+<img align="center" src="screenshots/screen03.png">
+<img align="center" src="screenshots/screen04.png">
