@@ -9,7 +9,7 @@ Projeto feito utilizando apenas HTML e JavaScript. Parte gráfica, layouts e int
 - [jQuery](https://jquery.com) - jQuery é um rápido, pequeno e rico Framework JavaScript. Ele faz coisas como manipulação HTML, animações, Ajax e pode ser utilizado na maioria dos navegadores existentes.
 
 # Fontes Utilizadas
-A Fonte utilizada nesse projeto, foi a Poppins. Para a Fonte que você deseja, basta entrar no [Site de Fontes do Google](https://fonts.google.com), e selecionar qual você deseja.
+A Fonte utilizada nesse projeto, foi a Poppins. Para pegar a Fonte que você deseja, basta entrar no [Site de Fontes do Google](https://fonts.google.com), e selecionar qual você deseja.
 
 Você pode utilizar o @import no seu arquivo .css ( CSS ), porém eu integrei tudo apenas no index.html
 ~~~html
